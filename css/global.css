@@ -1,0 +1,20 @@
+eu preciso
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Helvetica Neue' sans-serif;
+    line-height: 1.;
+    background-color: aliceblue;
+    color: black;
+}
+
+.site-header {
+    background-color: #333;
+    color: azure;
+    padding: ;
+}
