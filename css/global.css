@@ -1,5 +1,3 @@
-eu preciso
-
 * {
     margin: 0;
     padding: 0;
@@ -16,5 +14,15 @@ body {
 .site-header {
     background-color: #333;
     color: azure;
-    padding: ;
+    padding: 20px;
+    text-align: center;
+}
+.site-title {
+    margin-bottom: 10px;
+    font-size: 2em;
+}
+.main-nav .nav-list{
+    list-style: none;
+    display: flex;
+    justify-content: center;
 }
